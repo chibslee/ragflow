@@ -1,0 +1,135 @@
+pulling docker.1ms.run/infiniflow/ragflow:v0.16.0-slim
+v0.16.0-slim: Pulling from infiniflow/ragflow
+9cb31e2e37ea: Pulling fs layer
+f66afa6ed86d: Pulling fs layer
+c0b6e82f7763: Pulling fs layer
+98d40fbe43b0: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+454c8f08098f: Pulling fs layer
+ba58b7d7f3e6: Pulling fs layer
+0b2702c7b43b: Pulling fs layer
+c22f2069368a: Pulling fs layer
+27727dc21410: Pulling fs layer
+93a1fefb9858: Pulling fs layer
+2a274e8f5125: Pulling fs layer
+31e966c60abd: Pulling fs layer
+4f4fb700ef54: Waiting
+dce6cf4bf01b: Pulling fs layer
+454c8f08098f: Waiting
+dd393ea44f40: Pulling fs layer
+ba58b7d7f3e6: Waiting
+a11182f22cb2: Pulling fs layer
+0b2702c7b43b: Waiting
+d9cf478b905a: Pulling fs layer
+98d40fbe43b0: Waiting
+41bda45573a0: Pulling fs layer
+c22f2069368a: Waiting
+6ef2440c4039: Pulling fs layer
+27727dc21410: Waiting
+31e966c60abd: Waiting
+6d700680e345: Pulling fs layer
+6ee3c5388aa0: Pulling fs layer
+dce6cf4bf01b: Waiting
+dd393ea44f40: Waiting
+9a4c34f68544: Pulling fs layer
+93a1fefb9858: Waiting
+d64e42ce65d2: Pulling fs layer
+2a274e8f5125: Waiting
+a11182f22cb2: Waiting
+cfd47ab5dd23: Pulling fs layer
+6d700680e345: Waiting
+d9cf478b905a: Waiting
+41bda45573a0: Waiting
+6ef2440c4039: Waiting
+afbf250c87a6: Pulling fs layer
+6ee3c5388aa0: Waiting
+d64e42ce65d2: Waiting
+9a4c34f68544: Waiting
+cfd47ab5dd23: Waiting
+c6d30f69f497: Pulling fs layer
+6f59f7d5f427: Pulling fs layer
+afbf250c87a6: Waiting
+c6d30f69f497: Waiting
+6f59f7d5f427: Waiting
+c0b6e82f7763: Verifying Checksum
+c0b6e82f7763: Download complete
+f66afa6ed86d: Verifying Checksum
+f66afa6ed86d: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+9cb31e2e37ea: Verifying Checksum
+9cb31e2e37ea: Download complete
+9cb31e2e37ea: Pull complete
+f66afa6ed86d: Pull complete
+c0b6e82f7763: Pull complete
+454c8f08098f: Verifying Checksum
+454c8f08098f: Download complete
+0b2702c7b43b: Verifying Checksum
+0b2702c7b43b: Download complete
+c22f2069368a: Verifying Checksum
+c22f2069368a: Download complete
+98d40fbe43b0: Verifying Checksum
+98d40fbe43b0: Download complete
+93a1fefb9858: Verifying Checksum
+93a1fefb9858: Download complete
+98d40fbe43b0: Pull complete
+4f4fb700ef54: Pull complete
+454c8f08098f: Pull complete
+2a274e8f5125: Verifying Checksum
+2a274e8f5125: Download complete
+31e966c60abd: Verifying Checksum
+31e966c60abd: Download complete
+dce6cf4bf01b: Verifying Checksum
+dce6cf4bf01b: Download complete
+27727dc21410: Verifying Checksum
+27727dc21410: Download complete
+a11182f22cb2: Verifying Checksum
+a11182f22cb2: Download complete
+d9cf478b905a: Verifying Checksum
+d9cf478b905a: Download complete
+41bda45573a0: Verifying Checksum
+41bda45573a0: Download complete
+6ef2440c4039: Verifying Checksum
+6ef2440c4039: Download complete
+6d700680e345: Verifying Checksum
+6d700680e345: Download complete
+6ee3c5388aa0: Verifying Checksum
+6ee3c5388aa0: Download complete
+9a4c34f68544: Download complete
+d64e42ce65d2: Verifying Checksum
+d64e42ce65d2: Download complete
+cfd47ab5dd23: Verifying Checksum
+cfd47ab5dd23: Download complete
+afbf250c87a6: Verifying Checksum
+afbf250c87a6: Download complete
+c6d30f69f497: Verifying Checksum
+6f59f7d5f427: Verifying Checksum
+6f59f7d5f427: Download complete
+ba58b7d7f3e6: Verifying Checksum
+ba58b7d7f3e6: Download complete
+ba58b7d7f3e6: Pull complete
+0b2702c7b43b: Pull complete
+c22f2069368a: Pull complete
+27727dc21410: Pull complete
+93a1fefb9858: Pull complete
+2a274e8f5125: Pull complete
+31e966c60abd: Pull complete
+dce6cf4bf01b: Pull complete
+dd393ea44f40: Verifying Checksum
+dd393ea44f40: Download complete
+dd393ea44f40: Pull complete
+a11182f22cb2: Pull complete
+d9cf478b905a: Pull complete
+41bda45573a0: Pull complete
+6ef2440c4039: Pull complete
+6d700680e345: Pull complete
+6ee3c5388aa0: Pull complete
+9a4c34f68544: Pull complete
+d64e42ce65d2: Pull complete
+cfd47ab5dd23: Pull complete
+afbf250c87a6: Pull complete
+c6d30f69f497: Pull complete
+6f59f7d5f427: Pull complete
+Digest: sha256:9aba5f31a756b422f093cb33201bad3cd9a3c8e49983f44aca4a78166d911049
+Status: Downloaded newer image for docker.1ms.run/infiniflow/ragflow:v0.16.0-slim
+docker.1ms.run/infiniflow/ragflow:v0.16.0-slim
